@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<config>
+    <classname>com.company.jianzao.Boeing</classname>
+    <classname>com.company.jianzao.CargoPlane</classname>
+</config>
